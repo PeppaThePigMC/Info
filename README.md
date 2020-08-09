@@ -7,4 +7,10 @@
 
 ---
 
+## Current Tasks
+- Code Duels.
+- Get a life cause I'm too addicted to discord.
+
+---
+
 <img align="left" alt="Peppa's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=PeppaThePigMC&show_icons=true&hide_border=false" />
